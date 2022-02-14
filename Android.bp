@@ -1,6 +1,6 @@
 android_library {
 
-    name: "custom-preference",
+    name: "dora-preference",
 
     optimize: {
         enabled: false,

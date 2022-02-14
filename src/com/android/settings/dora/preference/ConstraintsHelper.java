@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.android.settings.custom.preference;
+package com.android.settings.dora.preference;
 
 import android.content.Context;
 import android.content.Intent;
@@ -42,8 +42,8 @@ import java.util.List;
 import java.util.Objects;
 import java.util.Set;
 
-import com.android.internal.custom.hardware.LineageHardwareManager;
-import com.android.settings.custom.R;
+import com.android.internal.dora.hardware.LineageHardwareManager;
+import com.android.settings.dora.R;
 
 
 /**
